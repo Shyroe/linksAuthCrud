@@ -21,7 +21,7 @@
     "express-pg-session": "^1.1.0",
     "express-session": "^1.17.0",
     "express-validator": "^6.3.0",
-    "knex": "^0.20.4",
+    "knex": "^2.4.0",
     "method-override": "^3.0.0",
     "morgan": "^1.9.1",
     "passport": "^0.4.1",
